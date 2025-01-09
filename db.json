@@ -76,27 +76,6 @@
       "defaultVinCode":"VIN2-001"
    },
    {
-      "id":"3",
-      "firstName":"Alice",
-      "lastName":"Johnson",
-      "phone":987654321,
-      "price":"10.5 $$",
-      "email":"test3@gmail..com",
-      "zip":null,
-      "num":"-0003",
-      "date":"07/09/2022",
-      "date2":"09/July/2021 10:58:46.000",
-      "relatedString1":"987",
-      "relatedString2":"gmail..com",
-      "relatedValue1":12344,
-      "relatedValue2":-10.5,
-      "myCars":[
-         
-      ],
-      "defaultCar":null,
-      "defaultVinCode":null
-   },
-   {
       "id":"4",
       "firstName":"Robert",
       "lastName":"Brown",
@@ -123,33 +102,5 @@
       ],
       "defaultCar":"BMW 3 Series",
       "defaultVinCode":"VIN4-001"
-   },
-   {
-      "id":"9",
-      "firstName":"James",
-      "lastName":"Garcia",
-      "phone":"54321",
-      "price":"$1000.00",
-      "zip":"12345",
-      "email":"test9@mail.com",
-      "num":"123.45",
-      "date":"12/12/2022",
-      "date2":"13-Jan-2023 09:45 AM",
-      "relatedString1":"$1000",
-      "relatedString2":"test9",
-      "relatedValue1":54321,
-      "relatedValue2":123.45,
-      "myCars":[
-         {
-            "model":"Chevrolet Tahoe",
-            "vinCode":"VIN9-001"
-         },
-         {
-            "model":"Ford Explorer",
-            "vinCode":"VIN9-002"
-         }
-      ],
-      "defaultCar":"Ford Explorer",
-      "defaultVinCode":"VIN9-002"
    }
 ]
