@@ -1,97 +1,8 @@
 [
-   {
-      "id":"1",
-      "firstName":"John",
-      "lastName":"Doe",
-      "phone":1234567890,
-      "price":"1 $",
-      "email":"test1@mail",
-      "zip":"12345-6789",
-      "num":"-0001",
-      "date":"07/11/2021",
-      "date2":"09-Jul-2021 16:43 AM",
-      "relatedString1":"12345",
-      "relatedString2":"test1",
-      "relatedValue1":12345,
-      "relatedValue2":1.0,
-      "myCars":[
-         {
-            "model":"Hyundai Elantra",
-            "vinCode":"VIN1-001"
-         },
-         {
-            "model":"Volkswagen Passat",
-            "vinCode":"VIN1-002"
-         },
-         {
-            "model":"Nissan Altima",
-            "vinCode":"VIN1-003"
-         }
-      ],
-      "defaultCar":"Hyundai Elantra",
-      "defaultVinCode":"VIN1-001"
-   },
-   {
-      "id":"2",
-      "firstName":"Jane",
-      "lastName":"Smith",
-      "phone":"12345",
-      "price":null,
-      "email":"test2@mail.ru",
-      "zip":"12344",
-      "num":"-21",
-      "date":null,
-      "date2":"11-May-2016 15:35",
-      "relatedString1":"Hello",
-      "relatedString2":"test2",
-      "relatedValue1":12345,
-      "relatedValue2":2,
-      "myCars":[
-         {
-            "model":"Kia Forte",
-            "vinCode":"VIN2-001"
-         },
-         {
-            "model":"Honda Civic",
-            "vinCode":"VIN2-002"
-         },
-         {
-            "model":"Mazda 6",
-            "vinCode":"VIN2-003"
-         },
-         {
-            "model":"Nissan Sentra",
-            "vinCode":"VIN2-004"
-         },
-         {
-            "model":"Volkswagen Jetta",
-            "vinCode":"VIN2-005"
-         },
-         {
-            "model":"Subaru Legacy",
-            "vinCode":"VIN2-006"
-         }
-      ],
-      "defaultCar":"Kia Forte",
-      "defaultVinCode":"VIN2-001"
-   },
-   {
-      "id":"4",
-      "firstName":"Robert",
-      "lastName":"Brown",
-      "phone":"2567459999",
-      "price":"2000,89",
-      "zip":"1234-34545",
-      "email":"tes4@gmail.com",
-      "num":"00056",
-      "date":"21/07/15 00:02 AM",
-      "date2":"09 12:02 PM",
-      "relatedString1":"256",
-      "relatedString2":"tes4",
-      "relatedValue1":256745,
-      "relatedValue2":2000.89,
-      "myCars":[
-         {
+  {
+    "id": "id1",
+    "myCars": [
+     {
             "model":"BMW 3 Series",
             "vinCode":"VIN4-001"
          },
@@ -99,8 +10,219 @@
             "model":"Audi A4",
             "vinCode":"VIN4-002"
          }
-      ],
-      "defaultCar":"BMW 3 Series",
-      "defaultVinCode":"VIN4-001"
-   }
+    ],
+    "email": "test2@test.com",
+    "zip_API3": "12345-6789",
+    "drivers": [
+      {
+        "id": null,
+        
+      },
+      {
+        "id": "63037dc6d4711ed2e043f89d",
+        "image": "https://cl-data.tech-suite.com/25_19_06_2024_06_27_50.jpeg",
+        "description": "tennisi raketka",
+        "number": "77.432323",
+        "address": "1",
+        "tags": [
+          "do",
+          "ea",
+          "velit",
+          "magna",
+          "eu",
+          "non",
+          "eu"
+        ],
+        "friends": [
+          {
+            "id": 0,
+            "image": ".",
+            "idHeader1": "CAZ",
+            "idHeader2": "hro",
+            "name": "Etta Ryan"
+          },
+          {
+            "id": 1,
+            "image": "",
+            "idHeader1": "TX",
+            "idHeader2": "aaaa",
+            "name": "Jeri Everett"
+          },
+          {
+            "id": 2,
+            "image": "zz",
+            "idHeader1": "",
+            "idHeader2": "test",
+            "name": "Sherri Clayton"
+          }
+        ]
+      },
+      {
+        "id": "63037dc6a69d85cc0f6e8411",
+        "image": "1",
+        "description": "nkar chka",
+        "number": "-55.44444444",
+        "status": "",
+        "balance": "601",
+        "date_new_table": "June 1990",
+        "ZIP": "345600000",
+        "name": "Gould Wong",
+        "email": null,
+        "phone": "(804) 434-2596",
+        "address": "aa",
+        "tags": [
+          "id",
+          "nostrud",
+          "culpa",
+          "minim",
+          "sit",
+          "dolore",
+          "id"
+        ],
+        "friends": [
+          {
+            "id": 0,
+            "image": "a",
+            "idHeader1": "CAZ-222",
+            "idHeader2": "Aleksanyan",
+            "name": "Charlene Workman"
+          },
+          {
+            "id": 1,
+            "image": "s",
+            "idHeader1": "TX-0002222",
+            "idHeader2": "Aleksanyan",
+            "name": "Freda Sargent"
+          },
+          {
+            "id": 2,
+            "image": "d",
+            "idHeader1": "CAZ-0",
+            "idHeader2": "Aleksanyan",
+            "name": "Cara Benton"
+          }
+        ]
+      }
+    ],
+    "date2": "09/11/2021 00:00:00",
+    "claim_number": "CAZ-0001610",
+    "bool": true,
+    "boolian": true,
+    "number": "0.5",
+    "phone": "(111) 111-1111",
+    "lastname": "hro",
+    "countries": [
+      {
+        "tab": "test1",
+        "claim": "AZZ1"
+      },
+      {
+        "tab": "test2",
+        "claim": "AZZ2"
+      },
+      {
+        "tab": "Spain",
+        "claim": "AZZ_Spain"
+      },
+      {
+        "tab": "France"
+      },
+      {
+        "tab": "Poland"
+      },
+      {
+        "tab": "Austria"
+      }
+    ],
+    "books": [
+      {
+        "hex_value": "new value",
+        "colour_name": "",
+        "email_dup": "test@test.com",
+        "bool_dup": false,
+        "MM/dd/yyyy": "01/09/2021",
+        "phone_dup": "(111) 111-1111"
+      },
+      {
+        "hex_value": "#8E4140111",
+        "colour_name": "Drip",
+        "email_dup": "test3@test.com",
+        "bool_dup": false,
+        "MM/dd/yyyy": "01/09/2021",
+        "phone_dup": "(111) 311-1111"
+      }
+    ],
+    "yyyy-MM-dd'T'HH:mm:ss.SSS'Z'": "3",
+    "HH:mm:ss.SSS": "11:04:14.101"
+  },
+  {
+    "id": "48125 65TH 1/2 ST, SALOME, AZ 85348",
+    "email": "test1@test.com",
+    "date": "a",
+    "date1": null,
+    "date2": " ",
+    "listing": {
+      "listing_record": null
+    },
+    "id1": 10,
+    "Value1": "symbol1 test",
+    "Head": false,
+    "face": true,
+    "id7": 42,
+    "id3": "Super Admin",
+    "images_case15": [
+      {
+        "image_1": "1",
+        "name": "a"
+      },
+      {
+        "image_1": "2",
+        "name": "08/02/22"
+      },
+      {
+        "image_1": "1",
+        "name": "a"
+      },
+      {
+        "image_1": "3",
+        "name": "1"
+      }
+    ],
+    "dd-MMM-yyyy HH:mm:ss.SSS_new": "12-Jul-2013 11:56:44.044",
+    "HH:mm:ss.SSS_new": "11:04:14.01",
+    "country": "France",
+    "number": "2000",
+    "phone": "(222) 222-2222",
+    "books": [
+      {
+        "hex_value": null,
+        "colour_name": "",
+        "email_dup": "test@test.com",
+        "bool_dup": true,
+        "MM/dd/yyyy": "01/09/2021",
+        "phone_dup": "(111) 111-1111"
+      },
+      {
+        "hex_value": "#8E414033",
+        "colour_name": "Drip",
+        "email_dup": "test3@test.com",
+        "bool_dup": false,
+        "MM/dd/yyyy": "05/05/1780",
+        "phone_dup": "(111) 311-1111"
+      }
+    ],
+    "bool": null
+  },
+  {
+    "id": "test3",
+    "date": "incorrect file name",
+    "country": "Poland",
+    "number": "2002",
+    "bool": true,
+    "id2": "SUV",
+    "phone": "(333) 333-3333",
+    "email": "car3@test.com",
+    "MM/dd/yyyy HH:mm:ss": "07/06/2007 13:44:25",
+    "MM/dd/yyyy HH:mm": "10/06/2007 13:44"
+  }
 ]
