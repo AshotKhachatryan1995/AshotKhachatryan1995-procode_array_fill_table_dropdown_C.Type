@@ -1,0 +1,155 @@
+[
+   {
+      "id":"1",
+      "firstName":"John",
+      "lastName":"Doe",
+      "phone":1234567890,
+      "price":"1 $",
+      "email":"test1@mail",
+      "zip":"12345-6789",
+      "num":"-0001",
+      "date":"07/11/2021",
+      "date2":"09-Jul-2021 16:43 AM",
+      "relatedString1":"12345",
+      "relatedString2":"test1",
+      "relatedValue1":12345,
+      "relatedValue2":1.0,
+      "myCars":[
+         {
+            "model":"Hyundai Elantra",
+            "vinCode":"VIN1-001"
+         },
+         {
+            "model":"Volkswagen Passat",
+            "vinCode":"VIN1-002"
+         },
+         {
+            "model":"Nissan Altima",
+            "vinCode":"VIN1-003"
+         }
+      ],
+      "defaultCar":"Hyundai Elantra",
+      "defaultVinCode":"VIN1-001"
+   },
+   {
+      "id":"2",
+      "firstName":"Jane",
+      "lastName":"Smith",
+      "phone":"12345",
+      "price":null,
+      "email":"test2@mail.ru",
+      "zip":"12344",
+      "num":"-21",
+      "date":null,
+      "date2":"11-May-2016 15:35",
+      "relatedString1":"Hello",
+      "relatedString2":"test2",
+      "relatedValue1":12345,
+      "relatedValue2":2,
+      "myCars":[
+         {
+            "model":"Kia Forte",
+            "vinCode":"VIN2-001"
+         },
+         {
+            "model":"Honda Civic",
+            "vinCode":"VIN2-002"
+         },
+         {
+            "model":"Mazda 6",
+            "vinCode":"VIN2-003"
+         },
+         {
+            "model":"Nissan Sentra",
+            "vinCode":"VIN2-004"
+         },
+         {
+            "model":"Volkswagen Jetta",
+            "vinCode":"VIN2-005"
+         },
+         {
+            "model":"Subaru Legacy",
+            "vinCode":"VIN2-006"
+         }
+      ],
+      "defaultCar":"Kia Forte",
+      "defaultVinCode":"VIN2-001"
+   },
+   {
+      "id":"3",
+      "firstName":"Alice",
+      "lastName":"Johnson",
+      "phone":987654321,
+      "price":"10.5 $$",
+      "email":"test3@gmail..com",
+      "zip":null,
+      "num":"-0003",
+      "date":"07/09/2022",
+      "date2":"09/July/2021 10:58:46.000",
+      "relatedString1":"987",
+      "relatedString2":"gmail..com",
+      "relatedValue1":12344,
+      "relatedValue2":-10.5,
+      "myCars":[
+         
+      ],
+      "defaultCar":null,
+      "defaultVinCode":null
+   },
+   {
+      "id":"4",
+      "firstName":"Robert",
+      "lastName":"Brown",
+      "phone":"2567459999",
+      "price":"2000,89",
+      "zip":"1234-34545",
+      "email":"tes4@gmail.com",
+      "num":"00056",
+      "date":"21/07/15 00:02 AM",
+      "date2":"09 12:02 PM",
+      "relatedString1":"256",
+      "relatedString2":"tes4",
+      "relatedValue1":256745,
+      "relatedValue2":2000.89,
+      "myCars":[
+         {
+            "model":"BMW 3 Series",
+            "vinCode":"VIN4-001"
+         },
+         {
+            "model":"Audi A4",
+            "vinCode":"VIN4-002"
+         }
+      ],
+      "defaultCar":"BMW 3 Series",
+      "defaultVinCode":"VIN4-001"
+   },
+   {
+      "id":"9",
+      "firstName":"James",
+      "lastName":"Garcia",
+      "phone":"54321",
+      "price":"$1000.00",
+      "zip":"12345",
+      "email":"test9@mail.com",
+      "num":"123.45",
+      "date":"12/12/2022",
+      "date2":"13-Jan-2023 09:45 AM",
+      "relatedString1":"$1000",
+      "relatedString2":"test9",
+      "relatedValue1":54321,
+      "relatedValue2":123.45,
+      "myCars":[
+         {
+            "model":"Chevrolet Tahoe",
+            "vinCode":"VIN9-001"
+         },
+         {
+            "model":"Ford Explorer",
+            "vinCode":"VIN9-002"
+         }
+      ],
+      "defaultCar":"Ford Explorer",
+      "defaultVinCode":"VIN9-002"
+   }
+]
